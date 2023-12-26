@@ -11,18 +11,18 @@ PrefabInstance:
     - target: {fileID: 3284528224358046309, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
       propertyPath: m_Name
-      value: Tomato
+      value: Lettuce
       objectReference: {fileID: 0}
     - target: {fileID: 4686646830497665233, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
       propertyPath: foodItemSO
       value: 
-      objectReference: {fileID: 11400000, guid: 97b15978b509bbd45a92427a69ec5516,
+      objectReference: {fileID: 11400000, guid: 7e1d7696732d84a44ae8b0a0d79e38e3,
         type: 2}
     - target: {fileID: 5427877309920803943, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.52
+      value: -0.29742718
       objectReference: {fileID: 0}
     - target: {fileID: 5427877309920803943, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
@@ -32,7 +32,7 @@ PrefabInstance:
     - target: {fileID: 5427877309920803943, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.901637
+      value: -3.6522126
       objectReference: {fileID: 0}
     - target: {fileID: 5427877309920803943, guid: be22137b3d20dab4ca99205dd1453fa4,
         type: 3}
@@ -73,7 +73,28 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: -1340541719380434750, guid: 36694ad9cc3abc04ab48fdb0373f2037,
+      objectReference: {fileID: 3340569556511490778, guid: 36694ad9cc3abc04ab48fdb0373f2037,
+        type: 3}
+    - target: {fileID: 7669499913714384833, guid: be22137b3d20dab4ca99205dd1453fa4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7669499913714384833, guid: be22137b3d20dab4ca99205dd1453fa4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7669499913714384833, guid: be22137b3d20dab4ca99205dd1453fa4,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8801341359597962414, guid: be22137b3d20dab4ca99205dd1453fa4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -2254121776283516742, guid: 36694ad9cc3abc04ab48fdb0373f2037,
         type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

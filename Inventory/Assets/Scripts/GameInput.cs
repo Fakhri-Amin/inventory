@@ -57,4 +57,9 @@ public class GameInput : MonoBehaviour
         inputVector = inputVector.normalized;
         return inputVector;
     }
+
+    public Vector3 GetMousePosition()
+    {
+        return Mouse.current.position.ReadValue();
+    }
 }
